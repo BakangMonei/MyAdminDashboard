@@ -24,6 +24,7 @@
 ```bash
     npm run dev
 ```
+Now running at http://localhost:3000
 
 ### Building for production.
 
