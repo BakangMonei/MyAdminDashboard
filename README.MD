@@ -14,6 +14,11 @@
     nvm use 20.5.0
 ```
 
+### Step 3: Installing dependencies
+```bash
+    npm install
+```
+
 ### Running the development server.
 
 ```bash
